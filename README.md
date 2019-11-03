@@ -1,3 +1,8 @@
+## Small secondary authors' notes
+
+When this was forked, I was bedridden with pain, and moderately miffed that Steam had removed their Daisywheel functionality from Big Picture. Realizing about the time of forking (3rd October of 2019) that nobody else was doing this in a proper, OSK-like fashion, I decided I'd learn Git and C++ just to make this happen.
+
+
 # antimicro
 
 ## We've Moved!
