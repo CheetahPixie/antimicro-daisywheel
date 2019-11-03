@@ -1,0 +1,17 @@
+Because this is going to require a bit of preplanning, I'm going to make myself a todo:
+
+To-Do:
+* Figure out how the source code works, first of all
+* Figure out about the keyboard emulation required for Daisywheel to function
+* Implement some OSK like graphical typing aid (similar to the original Daisywheel one)
+** Make the layout configurable
+** Make custom graphics possible
+** Customizable daisywheel layouts
+** Preferrably have the above in the likes of an XML file
+* Figure out the parts required for Daisywheel functionality to work
+** "Dial", "Stick", or whatever the segment selector should be called.
+*** Perhaps configure this to possibly be four way
+** "Mode buttons", essentially replicating the functionality found on the shoulders (special characters, capitals, numbers...)
+*** Ability to toggle those
+** "Pad", ie the buttons used to actually type the letters out
+*** Customizable layout to these, and possibly more than four buttons per pad (see Genesis six button controller for an example)
