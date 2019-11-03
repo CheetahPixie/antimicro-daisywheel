@@ -1,6 +1,9 @@
 Because this is going to require a bit of preplanning, I'm going to make myself a todo:
 
+----
+
 To-Do:
+
 * Figure out how the source code works, first of all
 * Figure out about the keyboard emulation required for Daisywheel to function
 * Implement some OSK like graphical typing aid (similar to the original Daisywheel one)
@@ -15,3 +18,19 @@ To-Do:
 *** Ability to toggle those
 ** "Pad", ie the buttons used to actually type the letters out
 *** Customizable layout to these, and possibly more than four buttons per pad (see Genesis six button controller for an example)
+
+
+Done:
+
+
+
+----
+
+Optional/lower priority to-do:
+
+* Figure out how to make one controller affect another, perhaps some sort of mode shifting
+** Possibly a split-controller daisywheel
+
+
+Done:
+
