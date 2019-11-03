@@ -1,0 +1,5 @@
+Note to self about current issues with the project, requiring immediate solutions.
+
+1: Get this to compile qith Qt5, somehow.
+  As far as cursory investigation shows, there are apparently a bunch of undefined things all over for this to work. Probably not a difficult fix.
+2: Learn C++ enough to be able to do what I need to be doing.
